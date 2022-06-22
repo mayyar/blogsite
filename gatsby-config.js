@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Full-stack developer",
+    title: "Jyun-Yan Lu's Blog",
     author: "Jim Lu",
   },
   plugins: [
